@@ -1,3 +1,4 @@
+/* code almost 100% stolen from w3 school*/
 body {
     font-family:'Courier New', Courier, monospace;
     margin: 0;
@@ -102,3 +103,11 @@ object-fit: contain;
 }
   
   /* Add a transparency effect for thumnbail images */
+.demo {
+    opacity: 0.6;
+  }
+  
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }

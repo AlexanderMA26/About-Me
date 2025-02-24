@@ -1,3 +1,4 @@
+//Slideshow code almost 100% stolen from w3 school
 let slideIndex = 1;
 showSlides(slideIndex);
  
