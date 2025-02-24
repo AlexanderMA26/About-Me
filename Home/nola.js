@@ -1,5 +1,24 @@
 let slideIndex = 1;
 showSlides(slideIndex);
+ 
+ 
+document.onkeydown = checkKey;
+
+
+//https://stackoverflow.com/questions/5597060/detecting-arrow-key-presses-in-javascript
+function checkKey(e) {
+
+    e = e || window.event;
+
+    
+     if (e.keyCode == 37) {
+       plusSlides(-1);
+    }
+    else{
+       plusSlides(1);
+    }
+}
+
 
 function plusSlides(n) {
   showSlides(slideIndex += n);
