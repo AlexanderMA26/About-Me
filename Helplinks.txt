@@ -1,0 +1,4 @@
+https://www.w3schools.com/TAGs/att_audio_autoplay.asp - Autoplaying music
+https://stackoverflow.com/questions/5597060/detecting-arrow-key-presses-in-javascript - arrow key detection
+https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/ - Embedding a map
+https://www.w3schools.com/css/css3_object-fit.asp - Object fit stuff
